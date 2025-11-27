@@ -1,0 +1,55 @@
+{
+  "source_files": {
+    "scripts/health-check.py": "927a36c5a11117b0",
+    "app/auth.py": "a729c4ef949d8535",
+    "app/__init__.py": "6d5db8fbc4b7637c",
+    "app/middleware.py": "aee5f3ca778b5d55",
+    "app/model.py": "2c87b605df5fc359",
+    "app/utils.py": "e3ae8731e8aec896",
+    "app/schemas.py": "9bf9a2cf13165477",
+    "app/main.py": "430c141287a22910"
+  },
+  "test_mapping": {
+    "app/__init__.py": [
+      "test_unit_20251124_064608_01.py",
+      "test_integ_20251124_064608_01.py",
+      "test_e2e_20251124_064608_01.py"
+    ],
+    "app/schemas.py": [
+      "test_unit_20251124_064608_01.py",
+      "test_integ_20251124_064608_01.py",
+      "test_e2e_20251124_064608_01.py"
+    ],
+    "app/middleware.py": [
+      "test_unit_20251124_064608_01.py",
+      "test_integ_20251124_064608_01.py",
+      "test_e2e_20251124_064608_01.py"
+    ],
+    "app/model.py": [
+      "test_unit_20251124_064608_01.py",
+      "test_integ_20251124_064608_01.py",
+      "test_e2e_20251124_064608_01.py"
+    ],
+    "scripts/health-check.py": [
+      "test_unit_20251124_064608_01.py",
+      "test_integ_20251124_064608_01.py",
+      "test_e2e_20251124_064608_01.py"
+    ],
+    "app/auth.py": [
+      "test_unit_20251124_064608_01.py",
+      "test_integ_20251124_064608_01.py",
+      "test_e2e_20251124_064608_01.py"
+    ],
+    "app/utils.py": [
+      "test_unit_20251124_064608_01.py",
+      "test_integ_20251124_064608_01.py",
+      "test_e2e_20251124_064608_01.py"
+    ],
+    "app/main.py": [
+      "test_unit_20251124_064608_01.py",
+      "test_integ_20251124_064608_01.py",
+      "test_e2e_20251124_064608_01.py"
+    ]
+  },
+  "generated_at": 1763966991.3440166
+}
